@@ -51,6 +51,7 @@ El sistema de tipos comunes tiene una gran importancia en la creación de aplica
    Un ejemplo de valor de tipo string podría ser el nombre de una persona: “David González”
 
 - **Enumerado (enum):** Conjunto de constantes identificadas con nombre, basadas en enteros.
+  
   Ejemplo: 
   ```
   enum Estacion { Primavera, Verano, Otoño, Invierno};
@@ -496,16 +497,15 @@ Resumen:
 - El operador `!` (NOT) devuelve el valor contrario.
 - El operador `&&` (AND) solo devuelve `true` si ambas condiciones son verdaderas.
 - El operador `||` (OR) devuelve `true` si al menos una condición es verdadera.
-- 
+  
 **Nota importante**: en C# los operadores `&&` y `||` son de evaluación condicional (short-circuit). Esto significa que:
 
 - En una expresión con `&&`, si la primera condición es `false`, no se evalúa la segunda.
 - En una expresión con `||`, si la primera condición es `true`, no se evalúa la segunda.
-- 
+  
 ## Operadores Alfanuméricos
 
-|+	| Concatenación de caracteres|
-|--|----------------------------|
+- `+`	Concatenación de caracteres
 
 Por ejemplo: `"David" + "González"` dará como resultado `"DavidGonzález"`
 
@@ -560,7 +560,7 @@ MessageBox.Show("Hola Mundo. Este es mi primer programa en C#");
 
 es una sentencia que se ejecuta y permite mostrar por pantalla un mensaje.
 
-<u>Dentro de las sentencias en C# vamos a estudiar la **asignación**. </u>
+### Dentro de las sentencias en C# vamos a estudiar la **asignación**. 
 
 La **asignación** se realiza con el operador `=`, colocando a la izquierda la variable que recibirá el valor y a la derecha la expresión cuyo resultado se asignará.
 
