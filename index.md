@@ -905,3 +905,11 @@ Los **formularios** son ideales para aplicaciones con interfaces gráficas, como
 Por otro lado, la **consola** es más adecuada para aplicaciones de línea de comandos o tareas automatizadas, donde la interacción es principalmente mediante texto. 
 
 
+<br>
+<br>
+
+<hr>
+
+# [Ejercicios Tema 1](./ejers/ejercicios.md)
+
+<hr>
