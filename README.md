@@ -66,6 +66,8 @@ El sistema de tipos comunes tiene una gran importancia en la creación de aplica
 <br>
 <br>
 
+<a id="apartado_2"></a>
+
 # 2. Constantes y Variables
 
 Cualquier programa informático necesita almacenar y tratar información. Para ello se utilizan constantes y variables. 
@@ -350,6 +352,8 @@ Las dos primeras líneas definen constantes numéricas de tipo real, la siguient
 <br>
 <br>
 
+<a id="apartado_3"></a>
+
 # 3. Operaciones Primitivas
 
 El desarrollo de un programa requerirá muchas veces de la capacidad de efectuar operaciones con los datos, cada tipo de datos tendrá un conjunto de operadores asociados. Los operadores se clasifican en:
@@ -533,6 +537,8 @@ Los paréntesis permiten alterar el orden de preferencia de los operadores.
 <br>
 <br>
 
+<a id="apartado_4"></a>
+
 # 4.	Expresiones y Sentencias en C#
 
 Una **expresión** será un dato (una constante o variable) o una lista de datos (operandos) unidos mediante símbolos (operadores), que se evalúa (se opera) y de la cual se obtiene un **resultado**. 
@@ -691,6 +697,8 @@ MessageBox.Show("Cadena Concatenada: " + mensajeConcatenado);
 <br>
 <br>
 
+<a id="apartado_6"></a>
+
 # 6.	Manejo de Errores de Ejecución. Try - Catch
 
 Al empezar a trabajar con los ejemplos o ejercicios del tema 2 seguramente os habréis encontrado con errores de ejecución, bien al introducir datos, o incluso al operar con ellos.
@@ -791,6 +799,8 @@ Resultado en la ejecución:
 
 <br>
 <br>
+
+<a id="apartado_7"></a>
 
 # 7.	Introducción al Trabajo con la Consola en C#
 

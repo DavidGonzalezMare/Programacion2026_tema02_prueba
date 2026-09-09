@@ -2,17 +2,17 @@
 
   - [1. Introducción a los tipos de datos básicos](README.md#apartado_1)
 
-  - [2. Constantes y Variables](README.md#2-constantes-y-variables)
+  - [2. Constantes y Variables](README.md#apartado_2)
 
-  - [3. Operaciones Primitivas](README.md#3-operaciones-primitivas)
+  - [3. Operaciones Primitivas](README.md#apartado_3)
 
-  - [4. Expresiones y Sentencias en C#](README.md#4-expresiones-y-sentencias-en-c)
+  - [4. Expresiones y Sentencias en C#](README.md#apartado_4)
 
   - [5. Cadenas interpoladas](README.md#apartado_5)
 
-  - [6. Manejo de Errores de Ejecución. Try-Catch](README.md#6-manejo-de-errores-de-ejecución-try-catch)
+  - [6. Manejo de Errores de Ejecución. Try-Catch](README.md#apartado_6)
 
-  - [7. Introducción al Trabajo con la Consola en C#](README.md#7-introducción-al-trabajo-con-la-consola-en-c)
+  - [7. Introducción al Trabajo con la Consola en C#](README.md#apartado_7)
 
   - [Ejercicios](ejers/ejercicios.md)
   
