@@ -1,6 +1,6 @@
 - [Tema 2. Elementos del lenguaje](README.md)
 
-  - [1. Introducción a los tipos de datos básicos](README.md#1-introducción-a-los-tipos-de-datos-básicos)
+  - [1. Introducción a los tipos de datos básicos](README.md#apartado_1)
 
   - [2. Constantes y Variables](README.md#2-constantes-y-variables)
 
@@ -8,7 +8,7 @@
 
   - [4. Expresiones y Sentencias en C#](README.md#4-expresiones-y-sentencias-en-c)
 
-  - [5. Cadenas interpoladas](README.md#5-cadenas-interpoladas)
+  - [5. Cadenas interpoladas](README.md#apartado_5)
 
   - [6. Manejo de Errores de Ejecución. Try-Catch](README.md#6-manejo-de-errores-de-ejecución-try-catch)
 

@@ -8,6 +8,8 @@
 <br>
 <br>
 
+<a id="apartado_1"></a>
+
 # 1. Introducción a los tipos de datos básicos.
 
 El **tipo de datos** de un elemento de programación hace referencia a la clase de datos que puede contener y a cómo se almacenan los datos. El sistema de tipos comunes (Common Type System – CTS) define los tipos de datos que soporta el Common Language Runtime. 
@@ -627,6 +629,8 @@ realc = reala * 2;       // realc toma el valor 3.0
 
 <br>
 <br>
+
+<a id="apartado_5"></a>
 
 # 5.	Cadenas interpoladas
 
