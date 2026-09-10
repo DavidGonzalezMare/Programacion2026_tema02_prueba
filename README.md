@@ -3,7 +3,7 @@
 <br>
 <br>
 
-# Prueba 1.
+# Prueba 2.
 
 # Tema 2. Elementos del lenguaje
 
