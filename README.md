@@ -136,7 +136,7 @@ También se muestra cómo declarar **un tipo enumerado** (`enum`) llamado `Estac
 
 Se puede dar el valor a la variable en el momento de declararla:
 
-```csharp 
+```csharp
 int num = 10;
 decimal iva = 0.21m;
 Estacion estacionActual = Estacion.Primavera;
